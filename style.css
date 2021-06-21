@@ -1,0 +1,36 @@
+h1{
+    color:#ffccaa;
+    background-color : #ff00dd
+}
+.header{
+    background-color: #5faabb;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    justify-content:flex-end ;
+    font-family:  sans-serif  ;
+    margin: 50px;
+}
+p,h2{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.img{
+    border: 3px solid #0000ff;
+    border-radius: 10px;
+}
+body{
+
+    background-color: #808080;
+}
